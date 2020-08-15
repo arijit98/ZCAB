@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1024457144349",
+    "firebase_url": "https://zcab-14f35.firebaseio.com",
+    "project_id": "zcab-14f35",
+    "storage_bucket": "zcab-14f35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024457144349:android:eeb63f1f2601c75453eef4",
+        "android_client_info": {
+          "package_name": "com.example.zcab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024457144349-4lh1ee3cljnuaa00u303hd253om8jvm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAkyJ4zIyWzC_wOhWmzC19RnIF6KbkmxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024457144349-4lh1ee3cljnuaa00u303hd253om8jvm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
